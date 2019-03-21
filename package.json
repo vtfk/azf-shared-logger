@@ -46,7 +46,7 @@
     }
   },
   "dependencies": {
-    "winston": "2.4.4",
+    "winston": "3.2.1",
     "winston-papertrail": "1.0.5"
   }
 }
